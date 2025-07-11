@@ -29,3 +29,6 @@ scripts/*.txt
 scripts/sprites
 scripts/raw-sprites
 scripts/node_modules
+
+# maybe.. actions.. please?
+package-lock.json
