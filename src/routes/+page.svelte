@@ -127,5 +127,9 @@
             {/if}
         </Resizable.Pane>
     </Resizable.PaneGroup>
-    <p class="mx-4">Festival data collected by Scarlett</p>
+    <p class="mx-4">
+        Festival data collected by Scarlett
+        <span class="text-neutral-500"> | </span>
+        <a href="https://github.com/anotherpillow/stardew-festivals" class="text-purple-700 underline">View Source Code</a>
+    </p>
 </main>
