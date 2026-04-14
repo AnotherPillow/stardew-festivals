@@ -237,6 +237,15 @@ const spiriteve_setup_2_sve = supplement([
             "tileY": 54
         },
         {
+            "displayName": "Alesia",
+            "internalID": "Alesia",
+            "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+            "modDisplayName": "Stardew Valley Expanded",
+            "image": "/sprites/Alesia.png",
+            "tileX": 36,
+            "tileY": 71
+        },
+        {
             "displayName": "Andy",
             "internalID": "Andy",
             "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
@@ -244,6 +253,51 @@ const spiriteve_setup_2_sve = supplement([
             "image": "/sprites/Andy.png",
             "tileX": 36,
             "tileY": 71
+        },
+        {
+            "displayName": "Apples",
+            "internalID": "Apples",
+            "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+            "modDisplayName": "Stardew Valley Expanded",
+            "image": "/sprites/Apples.png",
+            "tileX": 47,
+            "tileY": 88
+        },
+        {
+            "displayName": "Claire",
+            "internalID": "Claire",
+            "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+            "modDisplayName": "Stardew Valley Expanded",
+            "image": "/sprites/Claire.png",
+            "tileX": 28,
+            "tileY": 66
+        },
+        {
+            "displayName": "Gunther",
+            "internalID": "GuntherSilvian",
+            "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+            "modDisplayName": "Stardew Valley Expanded",
+            "image": "/sprites/GuntherSilvian.png",
+            "tileX": 26,
+            "tileY": 53
+        },
+        {
+            "displayName": "Isaac",
+            "internalID": "Isaac",
+            "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+            "modDisplayName": "Stardew Valley Expanded",
+            "image": "/sprites/Isaac.png",
+            "tileX": 21,
+            "tileY": 57
+        },
+        {
+            "displayName": "Lance",
+            "internalID": "Lance",
+            "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+            "modDisplayName": "Stardew Valley Expanded",
+            "image": "/sprites/Lance.png",
+            "tileX": 13,
+            "tileY": 66
         },
         {
             "displayName": "Marlon",
@@ -255,6 +309,24 @@ const spiriteve_setup_2_sve = supplement([
             "tileY": 62
         },
         {
+            "displayName": "Martin",
+            "internalID": "Martin",
+            "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+            "modDisplayName": "Stardew Valley Expanded",
+            "image": "/sprites/Martin.png",
+            "tileX": 27,
+            "tileY": 65
+        },
+        {
+            "displayName": "Morgan",
+            "internalID": "Morgan",
+            "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+            "modDisplayName": "Stardew Valley Expanded",
+            "image": "/sprites/Morgan.png",
+            "tileX": 9,
+            "tileY": 25
+        },
+        {
             "displayName": "Olivia",
             "internalID": "Olivia",
             "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
@@ -262,6 +334,15 @@ const spiriteve_setup_2_sve = supplement([
             "image": "/sprites/Olivia.png",
             "tileX": 32,
             "tileY": 65
+        },
+        {
+            "displayName": "Scarlett",
+            "internalID": "Scarlett",
+            "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+            "modDisplayName": "Stardew Valley Expanded",
+            "image": "/sprites/Scarlett.png",
+            "tileX": 43,
+            "tileY": 30
         },
         {
             "displayName": "Sophia",
@@ -874,7 +955,43 @@ const spiriteve_setup_2_sve = supplement([
             "image": "/sprites/VoidWitchCult.CP.TheFishmongerNPC_TheFishmonger.png",
             "tileX": 33,
             "tileY": 57
-        }
+        },
+		{
+			"displayName": "Sheriff Bill",
+			"internalID": "MV.Municipal_SheriffBill",
+			"modUniqueID": "MV.Municipal",
+			"modDisplayName": "Pelican Town Municipal",
+			"image": "/sprites/MV.Municipal_SheriffBill.png",
+			"tileX": 23,
+			"tileY": 63
+		},
+		{
+			"displayName": "Dwarf",
+			"internalID": "Dwarf",
+			"modUniqueID": "Vanilla",
+			"modDisplayName": "Vanilla",
+			"image": "/sprites/Dwarf.png",
+			"tileX": 46,
+			"tileY": 4
+		},
+		{
+			"displayName": "Sandy",
+			"internalID": "Sandy",
+			"modUniqueID": "Vanilla",
+			"modDisplayName": "Vanilla",
+			"image": "/sprites/Sandy.png",
+			"tileX": 19,
+			"tileY": 25
+		},
+		{
+			"displayName": "Pierre",
+			"internalID": "Pierre",
+			"modUniqueID": "Vanilla",
+			"modDisplayName": "Vanilla",
+			"image": "/sprites/Pierre.png",
+			"tileX": 16,
+			"tileY": 51
+		},
     ], spiriteve_setup_2_vanilla)
 
     export default spiriteve_setup_2_sve

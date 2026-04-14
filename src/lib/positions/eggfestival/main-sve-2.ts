@@ -192,6 +192,42 @@ const eggfestival_main_2_sve = [
         "tileY": 73
     },
     {
+        "displayName": "Apples",
+        "internalID": "Apples",
+        "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+        "modDisplayName": "Stardew Valley Expanded",
+        "image": "/sprites/Apples.png",
+        "tileX": 11,
+        "tileY": 51
+    },
+    {
+        "displayName": "Claire",
+        "internalID": "Claire",
+        "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+        "modDisplayName": "Stardew Valley Expanded",
+        "image": "/sprites/Claire.png",
+        "tileX": 24,
+        "tileY": 71
+    },
+    {
+        "displayName": "Gunther",
+        "internalID": "GuntherSilvian",
+        "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+        "modDisplayName": "Stardew Valley Expanded",
+        "image": "/sprites/GuntherSilvian.png",
+        "tileX": 29,
+        "tileY": 65
+    },
+    {
+        "displayName": "Lance",
+        "internalID": "Lance",
+        "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+        "modDisplayName": "Stardew Valley Expanded",
+        "image": "/sprites/Lance.png",
+        "tileX": 22,
+        "tileY": 61
+    },
+    {
         "displayName": "Marlon",
         "internalID": "MarlonFay",
         "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
@@ -201,6 +237,15 @@ const eggfestival_main_2_sve = [
         "tileY": 61
     },
     {
+        "displayName": "Martin",
+        "internalID": "Martin",
+        "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+        "modDisplayName": "Stardew Valley Expanded",
+        "image": "/sprites/Martin.png",
+        "tileX": 24,
+        "tileY": 69
+    },
+    {
         "displayName": "Olivia",
         "internalID": "Olivia",
         "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
@@ -208,6 +253,15 @@ const eggfestival_main_2_sve = [
         "image": "/sprites/Olivia.png",
         "tileX": 21,
         "tileY": 69
+    },
+    {
+        "displayName": "Scarlett",
+        "internalID": "Scarlett",
+        "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+        "modDisplayName": "Stardew Valley Expanded",
+        "image": "/sprites/Scarlett.png",
+        "tileX": 23,
+        "tileY": 66
     },
     {
         "displayName": "Sophia",
@@ -1181,6 +1235,24 @@ const eggfestival_main_2_sve = [
         "tileX": 37,
         "tileY": 68
     },
+    {
+        "displayName": "Sheriff Bill",
+        "internalID": "MV.Municipal_SheriffBill",
+        "modUniqueID": "MV.Municipal",
+        "modDisplayName": "Pelican Town Municipal",
+        "image": "/sprites/MV.Municipal_SheriffBill.png",
+        "tileX": 32,
+        "tileY": 62
+    },
+	{
+		"displayName": "Sandy",
+		"internalID": "Sandy",
+		"modUniqueID": "Vanilla",
+		"modDisplayName": "Vanilla",
+		"image": "/sprites/Sandy.png",
+		"tileX": 35,
+		"tileY": 70
+	}
 ]
 
 export default supplement(eggfestival_main_2_sve, eggfestival_main_2_vanilla)

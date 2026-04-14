@@ -417,6 +417,42 @@ const eggfestival_main_1_sve = [
         "tileY": 64
     },
     {
+        "displayName": "Apples",
+        "internalID": "Apples",
+        "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+        "modDisplayName": "Stardew Valley Expanded",
+        "image": "/sprites/Apples.png",
+        "tileX": 11,
+        "tileY": 51
+    },
+    {
+        "displayName": "Claire",
+        "internalID": "Claire",
+        "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+        "modDisplayName": "Stardew Valley Expanded",
+        "image": "/sprites/Claire.png",
+        "tileX": 25,
+        "tileY": 73
+    },
+    {
+        "displayName": "Gunther",
+        "internalID": "GuntherSilvian",
+        "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+        "modDisplayName": "Stardew Valley Expanded",
+        "image": "/sprites/GuntherSilvian.png",
+        "tileX": 36,
+        "tileY": 65
+    },
+    {
+        "displayName": "Lance",
+        "internalID": "Lance",
+        "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+        "modDisplayName": "Stardew Valley Expanded",
+        "image": "/sprites/Lance.png",
+        "tileX": 32,
+        "tileY": 74
+    },
+    {
         "displayName": "Marlon",
         "internalID": "MarlonFay",
         "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
@@ -442,6 +478,15 @@ const eggfestival_main_1_sve = [
         "image": "/sprites/Olivia.png",
         "tileX": 22,
         "tileY": 68
+    },
+    {
+        "displayName": "Scarlett",
+        "internalID": "Scarlett",
+        "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+        "modDisplayName": "Stardew Valley Expanded",
+        "image": "/sprites/Scarlett.png",
+        "tileX": 22,
+        "tileY": 66
     },
     {
         "displayName": "Sophia",
@@ -1756,6 +1801,87 @@ const eggfestival_main_1_sve = [
         "image": "/sprites/LuRen.png",
         "tileX": 51,
         "tileY": 60
+    },
+    {
+        "displayName": "Sheriff Bill",
+        "internalID": "MV.Municipal_SheriffBill",
+        "modUniqueID": "MV.Municipal",
+        "modDisplayName": "Pelican Town Municipal",
+        "image": "/sprites/MV.Municipal_SheriffBill.png",
+        "tileX": 37,
+        "tileY": 70
+    },
+    {
+        "displayName": "Pam",
+        "internalID": "Pam",
+        "modUniqueID": "Vanilla",
+        "modDisplayName": "Vanilla",
+        "image": "/sprites/Pam.png",
+        "tileX": 27,
+        "tileY": 57
+    },
+    {
+        "displayName": "Evelyn",
+        "internalID": "Evelyn",
+        "modUniqueID": "Vanilla",
+        "modDisplayName": "Vanilla",
+        "image": "/sprites/Evelyn.png",
+        "tileX": 32,
+        "tileY": 62
+    },
+    {
+        "displayName": "Marlon",
+        "internalID": "Marlon",
+        "modUniqueID": "Vanilla",
+        "modDisplayName": "Vanilla",
+        "image": "/sprites/Marlon.png",
+        "tileX": 41,
+        "tileY": 57
+    },
+    {
+        "displayName": "Marnie",
+        "internalID": "Marnie",
+        "modUniqueID": "Vanilla",
+        "modDisplayName": "Vanilla",
+        "image": "/sprites/Marnie.png",
+        "tileX": 34,
+        "tileY": 62
+    },
+    {
+        "displayName": "Penny",
+        "internalID": "Penny",
+        "modUniqueID": "Vanilla",
+        "modDisplayName": "Vanilla",
+        "image": "/sprites/Penny.png",
+        "tileX": 35,
+        "tileY": 70
+    },
+    {
+        "displayName": "Sebastian",
+        "internalID": "Sebastian",
+        "modUniqueID": "Vanilla",
+        "modDisplayName": "Vanilla",
+        "image": "/sprites/Sebastian.png",
+        "tileX": 21,
+        "tileY": 70
+    },
+    {
+        "displayName": "Linus",
+        "internalID": "Linus",
+        "modUniqueID": "Vanilla",
+        "modDisplayName": "Vanilla",
+        "image": "/sprites/Linus.png",
+        "tileX": 36,
+        "tileY": 58
+    },
+    {
+        "displayName": "Sandy",
+        "internalID": "Sandy",
+        "modUniqueID": "Vanilla",
+        "modDisplayName": "Vanilla",
+        "image": "/sprites/Sandy.png",
+        "tileX": 28,
+        "tileY": 62
     }
 ]
 

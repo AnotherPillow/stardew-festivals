@@ -201,6 +201,42 @@ const luau_main_2_sve = supplement([
         "tileY": 19
     },
     {
+        "displayName": "Apples",
+        "internalID": "Apples",
+        "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+        "modDisplayName": "Stardew Valley Expanded",
+        "image": "/sprites/Apples.png",
+        "tileX": 15,
+        "tileY": 4
+    },
+    {
+        "displayName": "Claire",
+        "internalID": "Claire",
+        "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+        "modDisplayName": "Stardew Valley Expanded",
+        "image": "/sprites/Claire.png",
+        "tileX": 24,
+        "tileY": 5
+    },
+    {
+        "displayName": "Gunther",
+        "internalID": "GuntherSilvian",
+        "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+        "modDisplayName": "Stardew Valley Expanded",
+        "image": "/sprites/GuntherSilvian.png",
+        "tileX": 28,
+        "tileY": 4
+    },
+    {
+        "displayName": "Lance",
+        "internalID": "Lance",
+        "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+        "modDisplayName": "Stardew Valley Expanded",
+        "image": "/sprites/Lance.png",
+        "tileX": 19,
+        "tileY": 5
+    },
+    {
         "displayName": "Marlon",
         "internalID": "MarlonFay",
         "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
@@ -210,6 +246,33 @@ const luau_main_2_sve = supplement([
         "tileY": 5
     },
     {
+        "displayName": "Martin",
+        "internalID": "Martin",
+        "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+        "modDisplayName": "Stardew Valley Expanded",
+        "image": "/sprites/Martin.png",
+        "tileX": 25,
+        "tileY": 5
+    },
+    {
+        "displayName": "Morgan",
+        "internalID": "Morgan",
+        "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+        "modDisplayName": "Stardew Valley Expanded",
+        "image": "/sprites/Morgan.png",
+        "tileX": 12,
+        "tileY": 39
+    },
+    {
+        "displayName": "Morris",
+        "internalID": "MorrisTod",
+        "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+        "modDisplayName": "Stardew Valley Expanded",
+        "image": "/sprites/MorrisTod.png",
+        "tileX": 34,
+        "tileY": 10
+    },
+    {
         "displayName": "Olivia",
         "internalID": "Olivia",
         "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
@@ -217,6 +280,15 @@ const luau_main_2_sve = supplement([
         "image": "/sprites/Olivia.png",
         "tileX": 31,
         "tileY": 17
+    },
+    {
+        "displayName": "Scarlett",
+        "internalID": "Scarlett",
+        "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+        "modDisplayName": "Stardew Valley Expanded",
+        "image": "/sprites/Scarlett.png",
+        "tileX": 28,
+        "tileY": 19
     },
     {
         "displayName": "Sophia",
@@ -1261,7 +1333,25 @@ const luau_main_2_sve = supplement([
         "image": "/sprites/vickylchq.Lumen_Lumen.png",
         "tileX": 30,
         "tileY": 14
-    }
+    },
+    {
+        "displayName": "Sheriff Bill",
+        "internalID": "MV.Municipal_SheriffBill",
+        "modUniqueID": "MV.Municipal",
+        "modDisplayName": "Pelican Town Municipal",
+        "image": "/sprites/MV.Municipal_SheriffBill.png",
+        "tileX": 26,
+        "tileY": 18
+    },
+        {
+            "displayName": "Sandy",
+            "internalID": "Sandy",
+            "modUniqueID": "Vanilla",
+            "modDisplayName": "Vanilla",
+            "image": "/sprites/Sandy.png",
+            "tileX": 33,
+            "tileY": 11
+        }
 ], luau_main_2_vanilla)
 
 export default luau_main_2_sve

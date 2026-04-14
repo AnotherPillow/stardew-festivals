@@ -165,12 +165,66 @@ const moonlightjellies_main_2_sve = supplement([
         "tileY": 24
     },
     {
+        "displayName": "Apples",
+        "internalID": "Apples",
+        "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+        "modDisplayName": "Stardew Valley Expanded",
+        "image": "/sprites/Apples.png",
+        "tileX": 76,
+        "tileY": 17
+    },
+    {
+        "displayName": "Claire",
+        "internalID": "Claire",
+        "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+        "modDisplayName": "Stardew Valley Expanded",
+        "image": "/sprites/Claire.png",
+        "tileX": 40,
+        "tileY": 34
+    },
+    {
+        "displayName": "Gunther",
+        "internalID": "GuntherSilvian",
+        "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+        "modDisplayName": "Stardew Valley Expanded",
+        "image": "/sprites/GuntherSilvian.png",
+        "tileX": 39,
+        "tileY": 35
+    },
+    {
+        "displayName": "Lance",
+        "internalID": "Lance",
+        "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+        "modDisplayName": "Stardew Valley Expanded",
+        "image": "/sprites/Lance.png",
+        "tileX": 68,
+        "tileY": 5
+    },
+    {
         "displayName": "Marlon",
         "internalID": "MarlonFay",
         "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
         "modDisplayName": "Stardew Valley Expanded",
         "image": "/sprites/MarlonFay.png",
         "tileX": 70,
+        "tileY": 5
+    },
+    {
+        "displayName": "Martin",
+        "internalID": "Martin",
+        "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+        "modDisplayName": "Stardew Valley Expanded",
+        "image": "/sprites/Martin.png",
+        "tileX": 39,
+        "tileY": 33
+    },
+    {
+        "displayName": "Morgan",
+        "internalID": "Morgan",
+        "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+        "modDisplayName": "Stardew Valley Expanded",
+        "image": "/sprites/Morgan.png",
+        "tileX": 87,
         "tileY": 5
     },
     {
@@ -181,6 +235,15 @@ const moonlightjellies_main_2_sve = supplement([
         "image": "/sprites/Olivia.png",
         "tileX": 34,
         "tileY": 35
+    },
+    {
+        "displayName": "Scarlett",
+        "internalID": "Scarlett",
+        "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+        "modDisplayName": "Stardew Valley Expanded",
+        "image": "/sprites/Scarlett.png",
+        "tileX": 19,
+        "tileY": 24
     },
     {
         "displayName": "Sophia",
@@ -586,7 +649,25 @@ const moonlightjellies_main_2_sve = supplement([
         "image": "/sprites/vickylchq.Lumen_Lumen.png",
         "tileX": 29,
         "tileY": 34
-    }
+    },
+    {
+        "displayName": "Sheriff Bill",
+        "internalID": "MV.Municipal_SheriffBill",
+        "modUniqueID": "MV.Municipal",
+        "modDisplayName": "Pelican Town Municipal",
+        "image": "/sprites/MV.Municipal_SheriffBill.png",
+        "tileX": 85,
+        "tileY": 5
+    },
+        {
+            "displayName": "Sandy",
+            "internalID": "Sandy",
+            "modUniqueID": "Vanilla",
+            "modDisplayName": "Vanilla",
+            "image": "/sprites/Sandy.png",
+            "tileX": 24,
+            "tileY": 27
+        }
 ], moonlightjellies_main_2_vanilla)
 
 export default moonlightjellies_main_2_sve

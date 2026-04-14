@@ -480,6 +480,42 @@ const eggfestival_setup_1_sve = [
         "tileY": 70
     },
     {
+        "displayName": "Apples",
+        "internalID": "Apples",
+        "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+        "modDisplayName": "Stardew Valley Expanded",
+        "image": "/sprites/Apples.png",
+        "tileX": 11,
+        "tileY": 51
+    },
+    {
+        "displayName": "Claire",
+        "internalID": "Claire",
+        "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+        "modDisplayName": "Stardew Valley Expanded",
+        "image": "/sprites/Claire.png",
+        "tileX": 34,
+        "tileY": 57
+    },
+    {
+        "displayName": "Gunther",
+        "internalID": "GuntherSilvian",
+        "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+        "modDisplayName": "Stardew Valley Expanded",
+        "image": "/sprites/GuntherSilvian.png",
+        "tileX": 29,
+        "tileY": 54
+    },
+    {
+        "displayName": "Lance",
+        "internalID": "Lance",
+        "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+        "modDisplayName": "Stardew Valley Expanded",
+        "image": "/sprites/Lance.png",
+        "tileX": 32,
+        "tileY": 55
+    },
+    {
         "displayName": "Marlon",
         "internalID": "MarlonFay",
         "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
@@ -505,6 +541,15 @@ const eggfestival_setup_1_sve = [
         "image": "/sprites/Olivia.png",
         "tileX": 31,
         "tileY": 62
+    },
+    {
+        "displayName": "Scarlett",
+        "internalID": "Scarlett",
+        "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+        "modDisplayName": "Stardew Valley Expanded",
+        "image": "/sprites/Scarlett.png",
+        "tileX": 30,
+        "tileY": 63
     },
     {
         "displayName": "Sophia",
@@ -2070,6 +2115,78 @@ const eggfestival_setup_1_sve = [
         "modDisplayName": "Chinese translation of Masahi (may not be original source?)",
         "image": "/sprites/Masahi.png",
         "tileX": 24,
+        "tileY": 62
+    },
+    {
+        "displayName": "Sheriff Bill",
+        "internalID": "MV.Municipal_SheriffBill",
+        "modUniqueID": "MV.Municipal",
+        "modDisplayName": "Pelican Town Municipal",
+        "image": "/sprites/MV.Municipal_SheriffBill.png",
+        "tileX": 42,
+        "tileY": 57
+    },
+    {
+        "displayName": "Pierre",
+        "internalID": "Pierre",
+        "modUniqueID": "Vanilla",
+        "modDisplayName": "Vanilla",
+        "image": "/sprites/Pierre.png",
+        "tileX": 21,
+        "tileY": 51
+    },
+    {
+        "displayName": "Shane",
+        "internalID": "Shane",
+        "modUniqueID": "Vanilla",
+        "modDisplayName": "Vanilla",
+        "image": "/sprites/Shane.png",
+        "tileX": 23,
+        "tileY": 56
+    },
+    {
+        "displayName": "Linus",
+        "internalID": "Linus",
+        "modUniqueID": "Vanilla",
+        "modDisplayName": "Vanilla",
+        "image": "/sprites/Linus.png",
+        "tileX": 6,
+        "tileY": 65
+    },
+    {
+        "displayName": "Abigail",
+        "internalID": "Abigail",
+        "modUniqueID": "Vanilla",
+        "modDisplayName": "Vanilla",
+        "image": "/sprites/Abigail.png",
+        "tileX": 24,
+        "tileY": 74
+    },
+    {
+        "displayName": "Sam",
+        "internalID": "Sam",
+        "modUniqueID": "Vanilla",
+        "modDisplayName": "Vanilla",
+        "image": "/sprites/Sam.png",
+        "tileX": 23,
+        "tileY": 75
+    },
+    {
+        "displayName": "Sebastian",
+        "internalID": "Sebastian",
+        "modUniqueID": "Vanilla",
+        "modDisplayName": "Vanilla",
+        "image": "/sprites/Sebastian.png",
+        "tileX": 25,
+        "tileY": 75
+    },
+    {
+        "displayName": "Sandy",
+        "internalID": "Sandy",
+        "modUniqueID": "Vanilla",
+        "modDisplayName": "Vanilla",
+        "image": "/sprites/Sandy.png",
+        "tileX": 28,
         "tileY": 62
     }
     ]

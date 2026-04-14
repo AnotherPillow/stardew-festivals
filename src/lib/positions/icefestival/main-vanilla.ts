@@ -1547,8 +1547,16 @@ const icefestival_main_1_vanilla = [
             "image": "/sprites/Masahi.png",
             "tileX": 69,
             "tileY": 27
-        }
-    , 
+        }, 
+		{
+			"displayName": "Sheriff Bill",
+			"internalID": "MV.Municipal_SheriffBill",
+			"modUniqueID": "MV.Municipal",
+			"modDisplayName": "Pelican Town Municipal",
+			"image": "/sprites/MV.Municipal_SheriffBill.png",
+			"tileX": 78,
+			"tileY": 33
+		},
         {
             "displayName": "Leah",
             "internalID": "Leah",

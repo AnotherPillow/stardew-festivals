@@ -989,6 +989,15 @@ const moonlightjellies_main_1_vanilla = [
         "tileX": 29,
         "tileY": 34
     },
+    {
+        "displayName": "Sheriff Bill",
+        "internalID": "MV.Municipal_SheriffBill",
+        "modUniqueID": "MV.Municipal",
+        "modDisplayName": "Pelican Town Municipal",
+        "image": "/sprites/MV.Municipal_SheriffBill.png",
+        "tileX": 87,
+        "tileY": 5
+    },
     
         {
             "displayName": "Wizard",

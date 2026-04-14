@@ -462,6 +462,42 @@ const flowerdance_setup_1_sve = supplement([
         "tileY": 26
     },
     {
+        "displayName": "Apples",
+        "internalID": "Apples",
+        "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+        "modDisplayName": "Stardew Valley Expanded",
+        "image": "/sprites/Apples.png",
+        "tileX": 67,
+        "tileY": 15
+    },
+    {
+        "displayName": "Claire",
+        "internalID": "Claire",
+        "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+        "modDisplayName": "Stardew Valley Expanded",
+        "image": "/sprites/Claire.png",
+        "tileX": 18,
+        "tileY": 20
+    },
+    {
+        "displayName": "Gunther",
+        "internalID": "GuntherSilvian",
+        "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+        "modDisplayName": "Stardew Valley Expanded",
+        "image": "/sprites/GuntherSilvian.png",
+        "tileX": 5,
+        "tileY": 23
+    },
+    {
+        "displayName": "Lance",
+        "internalID": "Lance",
+        "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+        "modDisplayName": "Stardew Valley Expanded",
+        "image": "/sprites/Lance.png",
+        "tileX": 21,
+        "tileY": 21
+    },
+    {
         "displayName": "Marlon",
         "internalID": "MarlonFay",
         "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
@@ -469,6 +505,24 @@ const flowerdance_setup_1_sve = supplement([
         "image": "/sprites/MarlonFay.png",
         "tileX": 22,
         "tileY": 21
+    },
+    {
+        "displayName": "Martin",
+        "internalID": "Martin",
+        "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+        "modDisplayName": "Stardew Valley Expanded",
+        "image": "/sprites/Martin.png",
+        "tileX": 18,
+        "tileY": 22
+    },
+    {
+        "displayName": "Morgan",
+        "internalID": "Morgan",
+        "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+        "modDisplayName": "Stardew Valley Expanded",
+        "image": "/sprites/Morgan.png",
+        "tileX": 16,
+        "tileY": 11
     },
     {
         "displayName": "Morris",
@@ -487,6 +541,15 @@ const flowerdance_setup_1_sve = supplement([
         "image": "/sprites/Olivia.png",
         "tileX": 15,
         "tileY": 34
+    },
+    {
+        "displayName": "Scarlett",
+        "internalID": "Scarlett",
+        "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+        "modDisplayName": "Stardew Valley Expanded",
+        "image": "/sprites/Scarlett.png",
+        "tileX": 10,
+        "tileY": 21
     },
     {
         "displayName": "Sophia",
@@ -2026,7 +2089,43 @@ const flowerdance_setup_1_sve = supplement([
         "image": "/sprites/Masahi.png",
         "tileX": 1,
         "tileY": 40
-    }
+    },
+    {
+        "displayName": "Sheriff Bill",
+        "internalID": "MV.Municipal_SheriffBill",
+        "modUniqueID": "MV.Municipal",
+        "modDisplayName": "Pelican Town Municipal",
+        "image": "/sprites/MV.Municipal_SheriffBill.png",
+        "tileX": 13,
+        "tileY": 41
+    },
+        {
+            "displayName": "Sandy",
+            "internalID": "Sandy",
+            "modUniqueID": "Vanilla",
+            "modDisplayName": "Vanilla",
+            "image": "/sprites/Sandy.png",
+            "tileX": 26,
+            "tileY": 37
+        },
+        {
+            "displayName": "Leo",
+            "internalID": "Leo",
+            "modUniqueID": "Vanilla",
+            "modDisplayName": "Vanilla",
+            "image": "/sprites/Leo.png",
+            "tileX": 23,
+            "tileY": 25
+        },
+        {
+            "displayName": "Linus",
+            "internalID": "Linus",
+            "modUniqueID": "Vanilla",
+            "modDisplayName": "Vanilla",
+            "image": "/sprites/Linus.png",
+            "tileX": 25,
+            "tileY": 25
+        }
 ], flowerdance_setup_1_vanilla)
 
 export default flowerdance_setup_1_sve

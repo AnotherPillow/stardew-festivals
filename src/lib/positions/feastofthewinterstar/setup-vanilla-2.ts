@@ -1539,7 +1539,16 @@ const feastofthewinterstar_setup_2_vanilla = [
             "image": "/sprites/vickylchq.Lumen_Lumen.png",
             "tileX": 23,
             "tileY": 57
-        }
+        },
+		{
+			"displayName": "Sheriff Bill",
+			"internalID": "MV.Municipal_SheriffBill",
+			"modUniqueID": "MV.Municipal",
+			"modDisplayName": "Pelican Town Municipal",
+			"image": "/sprites/MV.Municipal_SheriffBill.png",
+			"tileX": 35,
+			"tileY": 57
+		}
     
 ]
 

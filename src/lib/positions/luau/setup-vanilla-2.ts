@@ -1268,6 +1268,15 @@ const luau_setup_2_vanilla = [
         "tileX": 49,
         "tileY": 16
     },
+    {
+        "displayName": "Sheriff Bill",
+        "internalID": "MV.Municipal_SheriffBill",
+        "modUniqueID": "MV.Municipal",
+        "modDisplayName": "Pelican Town Municipal",
+        "image": "/sprites/MV.Municipal_SheriffBill.png",
+        "tileX": 54,
+        "tileY": 7
+    },
     
         {
             "displayName": "Maru",

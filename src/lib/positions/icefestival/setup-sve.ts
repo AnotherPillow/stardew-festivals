@@ -363,6 +363,42 @@ const icefestival_setup_1_sve = supplement([
             "tileY": 31
         },
         {
+            "displayName": "Apples",
+            "internalID": "Apples",
+            "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+            "modDisplayName": "Stardew Valley Expanded",
+            "image": "/sprites/Apples.png",
+            "tileX": 106,
+            "tileY": 22
+        },
+        {
+            "displayName": "Claire",
+            "internalID": "Claire",
+            "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+            "modDisplayName": "Stardew Valley Expanded",
+            "image": "/sprites/Claire.png",
+            "tileX": 62,
+            "tileY": 52
+        },
+        {
+            "displayName": "Gunther",
+            "internalID": "GuntherSilvian",
+            "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+            "modDisplayName": "Stardew Valley Expanded",
+            "image": "/sprites/GuntherSilvian.png",
+            "tileX": 65,
+            "tileY": 26
+        },
+        {
+            "displayName": "Lance",
+            "internalID": "Lance",
+            "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+            "modDisplayName": "Stardew Valley Expanded",
+            "image": "/sprites/Lance.png",
+            "tileX": 101,
+            "tileY": 41
+        },
+        {
             "displayName": "Marlon",
             "internalID": "MarlonFay",
             "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
@@ -370,6 +406,15 @@ const icefestival_setup_1_sve = supplement([
             "image": "/sprites/MarlonFay.png",
             "tileX": 100,
             "tileY": 40
+        },
+        {
+            "displayName": "Morgan",
+            "internalID": "Morgan",
+            "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+            "modDisplayName": "Stardew Valley Expanded",
+            "image": "/sprites/Morgan.png",
+            "tileX": 31,
+            "tileY": 12
         },
         {
             "displayName": "Morris",
@@ -388,6 +433,15 @@ const icefestival_setup_1_sve = supplement([
             "image": "/sprites/Olivia.png",
             "tileX": 86,
             "tileY": 25
+        },
+        {
+            "displayName": "Scarlett",
+            "internalID": "Scarlett",
+            "modUniqueID": "FlashShifter.StardewValleyExpandedCP",
+            "modDisplayName": "Stardew Valley Expanded",
+            "image": "/sprites/Scarlett.png",
+            "tileX": 58,
+            "tileY": 19
         },
         {
             "displayName": "Sophia",
@@ -1900,6 +1954,249 @@ const icefestival_setup_1_sve = supplement([
             "image": "/sprites/Masahi.png",
             "tileX": 63,
             "tileY": 49
+        },  
+		{
+			"displayName": "Sheriff Bill",
+			"internalID": "MV.Municipal_SheriffBill",
+			"modUniqueID": "MV.Municipal",
+			"modDisplayName": "Pelican Town Municipal",
+			"image": "/sprites/MV.Municipal_SheriffBill.png",
+			"tileX": 64,
+			"tileY": 13
+		},
+        {
+            "displayName": "Elliott",
+            "internalID": "Elliott",
+            "modUniqueID": "Vanilla",
+            "modDisplayName": "Vanilla",
+            "image": "/sprites/Elliott.png",
+            "tileX": 64,
+            "tileY": 45
+        },
+        {
+            "displayName": "Evelyn",
+            "internalID": "Evelyn",
+            "modUniqueID": "Vanilla",
+            "modDisplayName": "Vanilla",
+            "image": "/sprites/Evelyn.png",
+            "tileX": 76,
+            "tileY": 24
+        },
+        {
+            "displayName": "Jodi",
+            "internalID": "Jodi",
+            "modUniqueID": "Vanilla",
+            "modDisplayName": "Vanilla",
+            "image": "/sprites/Jodi.png",
+            "tileX": 86,
+            "tileY": 23
+        },
+        {
+            "displayName": "Shane",
+            "internalID": "Shane",
+            "modUniqueID": "Vanilla",
+            "modDisplayName": "Vanilla",
+            "image": "/sprites/Shane.png",
+            "tileX": 83,
+            "tileY": 47
+        },
+        {
+            "displayName": "George",
+            "internalID": "George",
+            "modUniqueID": "Vanilla",
+            "modDisplayName": "Vanilla",
+            "image": "/sprites/George.png",
+            "tileX": 76,
+            "tileY": 25
+        },
+        {
+            "displayName": "Caroline",
+            "internalID": "Caroline",
+            "modUniqueID": "Vanilla",
+            "modDisplayName": "Vanilla",
+            "image": "/sprites/Caroline.png",
+            "tileX": 85,
+            "tileY": 24
+        },
+        {
+            "displayName": "Kent",
+            "internalID": "Kent",
+            "modUniqueID": "Vanilla",
+            "modDisplayName": "Vanilla",
+            "image": "/sprites/Kent.png",
+            "tileX": 88,
+            "tileY": 24
+        },
+        {
+            "displayName": "Wizard",
+            "internalID": "Wizard",
+            "modUniqueID": "Vanilla",
+            "modDisplayName": "Vanilla",
+            "image": "/sprites/Wizard.png",
+            "tileX": 29,
+            "tileY": 12
+        },
+        {
+            "displayName": "Sebastian",
+            "internalID": "Sebastian",
+            "modUniqueID": "Vanilla",
+            "modDisplayName": "Vanilla",
+            "image": "/sprites/Sebastian.png",
+            "tileX": 48,
+            "tileY": 33
+        },
+        {
+            "displayName": "Maru",
+            "internalID": "Maru",
+            "modUniqueID": "Vanilla",
+            "modDisplayName": "Vanilla",
+            "image": "/sprites/Maru.png",
+            "tileX": 81,
+            "tileY": 27
+        },
+        {
+            "displayName": "Sam",
+            "internalID": "Sam",
+            "modUniqueID": "Vanilla",
+            "modDisplayName": "Vanilla",
+            "image": "/sprites/Sam.png",
+            "tileX": 46,
+            "tileY": 33
+        },
+        {
+            "displayName": "Jas",
+            "internalID": "Jas",
+            "modUniqueID": "Vanilla",
+            "modDisplayName": "Vanilla",
+            "image": "/sprites/Jas.png",
+            "tileX": 89,
+            "tileY": 33
+        },
+        {
+            "displayName": "Penny",
+            "internalID": "Penny",
+            "modUniqueID": "Vanilla",
+            "modDisplayName": "Vanilla",
+            "image": "/sprites/Penny.png",
+            "tileX": 87,
+            "tileY": 33
+        },
+        {
+            "displayName": "Abigail",
+            "internalID": "Abigail",
+            "modUniqueID": "Vanilla",
+            "modDisplayName": "Vanilla",
+            "image": "/sprites/Abigail.png",
+            "tileX": 85,
+            "tileY": 34
+        },
+        {
+            "displayName": "Pierre",
+            "internalID": "Pierre",
+            "modUniqueID": "Vanilla",
+            "modDisplayName": "Vanilla",
+            "image": "/sprites/Pierre.png",
+            "tileX": 84,
+            "tileY": 35
+        },
+        {
+            "displayName": "Emily",
+            "internalID": "Emily",
+            "modUniqueID": "Vanilla",
+            "modDisplayName": "Vanilla",
+            "image": "/sprites/Emily.png",
+            "tileX": 71,
+            "tileY": 51
+        },
+        {
+            "displayName": "Clint",
+            "internalID": "Clint",
+            "modUniqueID": "Vanilla",
+            "modDisplayName": "Vanilla",
+            "image": "/sprites/Clint.png",
+            "tileX": 73,
+            "tileY": 51
+        },
+        {
+            "displayName": "Pam",
+            "internalID": "Pam",
+            "modUniqueID": "Vanilla",
+            "modDisplayName": "Vanilla",
+            "image": "/sprites/Pam.png",
+            "tileX": 108,
+            "tileY": 49
+        },
+        {
+            "displayName": "Linus",
+            "internalID": "Linus",
+            "modUniqueID": "Vanilla",
+            "modDisplayName": "Vanilla",
+            "image": "/sprites/Linus.png",
+            "tileX": 88,
+            "tileY": 45
+        },
+        {
+            "displayName": "Leo",
+            "internalID": "Leo",
+            "modUniqueID": "Vanilla",
+            "modDisplayName": "Vanilla",
+            "image": "/sprites/Leo.png",
+            "tileX": 90,
+            "tileY": 42
+        },
+        {
+            "displayName": "Gus",
+            "internalID": "Gus",
+            "modUniqueID": "Vanilla",
+            "modDisplayName": "Vanilla",
+            "image": "/sprites/Gus.png",
+            "tileX": 63,
+            "tileY": 51
+        },
+        {
+            "displayName": "Marnie",
+            "internalID": "Marnie",
+            "modUniqueID": "Vanilla",
+            "modDisplayName": "Vanilla",
+            "image": "/sprites/Marnie.png",
+            "tileX": 56,
+            "tileY": 52
+        },
+        {
+            "displayName": "Harvey",
+            "internalID": "Harvey",
+            "modUniqueID": "Vanilla",
+            "modDisplayName": "Vanilla",
+            "image": "/sprites/Harvey.png",
+            "tileX": 64,
+            "tileY": 52
+        },
+        {
+            "displayName": "Willy",
+            "internalID": "Willy",
+            "modUniqueID": "Vanilla",
+            "modDisplayName": "Vanilla",
+            "image": "/sprites/Willy.png",
+            "tileX": 76,
+            "tileY": 36
+        },
+        {
+            "displayName": "Demetrius",
+            "internalID": "Demetrius",
+            "modUniqueID": "Vanilla",
+            "modDisplayName": "Vanilla",
+            "image": "/sprites/Demetrius.png",
+            "tileX": 78,
+            "tileY": 45
+        },
+        {
+            "displayName": "Sandy",
+            "internalID": "Sandy",
+            "modUniqueID": "Vanilla",
+            "modDisplayName": "Vanilla",
+            "image": "/sprites/Sandy.png",
+            "tileX": 65,
+            "tileY": 44
         }
     ], icefestival_setup_1_vanilla)
 

@@ -1970,6 +1970,15 @@ const flowerdance_setup_1_vanilla = [
         "tileX": 1,
         "tileY": 40
     },
+    {
+        "displayName": "Sheriff Bill",
+        "internalID": "MV.Municipal_SheriffBill",
+        "modUniqueID": "MV.Municipal",
+        "modDisplayName": "Pelican Town Municipal",
+        "image": "/sprites/MV.Municipal_SheriffBill.png",
+        "tileX": 23,
+        "tileY": 20
+    },
     
         {
             "displayName": "Wizard",

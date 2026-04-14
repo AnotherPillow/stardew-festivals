@@ -1133,6 +1133,15 @@ const eggfestival_main_2_vanilla = [
         "tileX": 37,
         "tileY": 68
 	},
+    {
+        "displayName": "Sheriff Bill",
+        "internalID": "MV.Municipal_SheriffBill",
+        "modUniqueID": "MV.Municipal",
+        "modDisplayName": "Pelican Town Municipal",
+        "image": "/sprites/MV.Municipal_SheriffBill.png",
+        "tileX": 22,
+        "tileY": 63
+    },
 	{
 		"displayName": "Harvey",
 		"internalID": "Harvey",

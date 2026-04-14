@@ -710,8 +710,16 @@ const icefestival_main_2_vanilla = [
             "image": "/sprites/VoidWitchCult.CP.TheFishmongerNPC_TheFishmonger.png",
             "tileX": 52,
             "tileY": 30
-        }
-    , 
+        },
+		{
+			"displayName": "Sheriff Bill",
+			"internalID": "MV.Municipal_SheriffBill",
+			"modUniqueID": "MV.Municipal",
+			"modDisplayName": "Pelican Town Municipal",
+			"image": "/sprites/MV.Municipal_SheriffBill.png",
+			"tileX": 63,
+			"tileY": 35
+		},
         {
             "displayName": "Sam",
             "internalID": "Sam",
